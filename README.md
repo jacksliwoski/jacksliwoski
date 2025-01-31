@@ -4,7 +4,7 @@
 I am a undegrad student at the University of Washington studying Informatics
 
 ## Objective
-Currently seeking a summer internship in cybersecurity or network infrastructure to contribute technical expertise and develop professionally for a career as a cybersecurity analyst.
+Currently seeking a summer internship in information technology to contribute technical expertise and develop professionally.
 
 ## Projects
 #### (Some still migrating to github)
