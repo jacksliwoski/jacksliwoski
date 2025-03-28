@@ -18,7 +18,7 @@ Currently seeking a summer internship in information technology to contribute te
 | <a href="https://github.com/jacksliwoski/Palo-Alto-URL-Filtering">Palo Alto Firewall URL Filtering</a>| URL Filtering | Palo Alto 220 Firewall |
 | <a href="https://github.com/jacksliwoski/Palo-Alto-Remote-Access-VPN">Palo Alto Firewall Remote Access VPN</a>| Remote Access VPN Setup | Palo Alto 220 Firewall |
 | <a >Palo Alto Firewall SOHO Environment</a>| SOHO Firewall Configuration | Palo Alto 220 Firewall |
-| <a >Palo Alto Firewall Radius Authentication</a>| Radius Authentication Setup | Palo Alto 220 Firewall |
+| <a href="https://github.com/jacksliwoski/Palo-Alto-RADIUS">Palo Alto Firewall Radius Authentication</a>| Radius Authentication Setup | Palo Alto 220 Firewall |
 | <a href="https://github.com/jacksliwoski/ASA-Factory-Reset">Cisco ASA Factory Reset</a>| Factory Reset | Cisco ASA 5505 Firewall |
 | <a href="https://github.com/jacksliwoski/Configuring-ASDM">Configuring ASDM</a>| ASDM Setup | Cisco ASA 5505 Firewall |
 | <a >Configuring pfSense Firewall</a>| Setup of Software-Based Firewall | pfSense Version 2.6.0 |
