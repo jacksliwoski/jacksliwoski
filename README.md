@@ -1,13 +1,26 @@
 # Hello, I'm Jack Sliwoski
+### President @ ThinkCyber UW Chapter | Security+ Certified
 <a href="https://www.linkedin.com/in/jacksliwoski/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a undegrad student at the University of Washington studying Informatics
+I am an student leader studying Informatics at the University of Washington.
+
+
 
 ## Objective
 Currently seeking a summer internship in information technology to contribute technical expertise and develop professionally.
 
 ## Projects
 #### (Some still migrating to github)
+
+### General
+
+| Project                    | Skill                                         | Tools                      |
+|----------------------------|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/israelavendanojr/crowd-vision">CrowdVision AI</a>| AI Powered Crowd Safety Platform | Frontend: React, Typescript, Tailwind, Backend: Python, Flask, LLaMA 4, AI/ML: Computer Vision, Roboflow, RAG System, Agent |
+| <a href="https://github.com/jacksliwoski/gophish-screen">Gophish-Screened</a>| Remake of Gophish to Account For Email Gateway Screeners | Visual Studio Code, Copilot |
+| <a href="https://github.com/info340-sp25a/project-jortuck">Map My Dub</a>| Web Development | Firebase, React.js, JavaScript, CSS, HTML, Vite |
+| <a href="https://github.com/jacksliwoski/Light-Tap">Light Tap IOS Game</a>| Swift, Mobile Game Development | Xcode, Swift |
+
 
 ### Cybersecurity
 
