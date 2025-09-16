@@ -10,7 +10,7 @@ I am a student leader studying Informatics at the University of Washington.
 Currently seeking a summer internship in information technology to contribute technical expertise and develop professionally.
 
 ## Projects
-#### (Some still migrating to github)
+#### (Some still migrating to github from docx)
 
 ### General
 
@@ -40,25 +40,25 @@ Currently seeking a summer internship in information technology to contribute te
 
 | Project                    | Skill                                         | Tools                      |
 |----------------------------|-----------------------------------------------|----------------------------|
-| <a>Radius AAA</a>| Configuration of RADIUS Server for AAA Management | Windows Server 2019 |
-| <a>EBGP</a>| EBGP Router Configuration (External Routing) | puTTy + Cisco Routers |
-| <a>IBGP</a>| IBGP Router Configuration (Internal Routing) | puTTy + Cisco Routers |
-| <a>EIGRP</a>| EIGRP Router Topology Configuration | puTTy + Cisco Routers |
-| <a>Single-Area OSPF</a>| OSPF Router Configuration | puTTy + Cisco Routers |
-| <a>Multi-Area OSPF</a>| Multi-Area OSPF Router Configuration | puTTy + Cisco Routers |
-| <a>VRF</a>| Network Segmentation | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1qcLAVlN1oaFg2QN96Y1X0UFwR01eQKa-/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">Radius AAA</a>| Configuration of RADIUS Server for AAA Management | Windows Server 2019 |
+| <a href="https://docs.google.com/document/d/1CvDUhJc77kXgFoUwTpvBl_i5FphOVP16/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">EBGP</a>| EBGP Router Configuration (External Routing) | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1HNJTrt8To9iOO31AbnDs6zVGBetbA9QO/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">IBGP</a>| IBGP Router Configuration (Internal Routing) | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1yz-OLJwY7QGO9TThltFciB9Eu7dD0vGC/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">EIGRP</a>| EIGRP Router Topology Configuration | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1ArkW4QRKR0d7337KqNaYB905pE3mB8fz/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">Single-Area OSPF</a>| OSPF Router Configuration | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1qKubI0PHySKUKggQzlUFYl3pU45VkXQ_/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">Multi-Area OSPF</a>| Multi-Area OSPF Router Configuration | puTTy + Cisco Routers |
+| <a href="https://docs.google.com/document/d/1wkiwgUu24wT62S51QibLYgBCOChABCsN/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">VRF</a>| Network Segmentation | puTTy + Cisco Routers |
 
 
 
 ### Cloud
 | Project                    | Skill                                         | Tools                      |
 |----------------------------|-----------------------------------------------|----------------------------|
-| <a>AWS EBS</a>| Configuring Cloud Based Dynamic Storage | AWS |
-| <a>AWS EC2</a>| Creating and Configuring EC2 Instance (Dynamic Computing) | AWS |
-| <a>AWS IAM</a>| Group Policy Management | AWS |
-| <a>AWS RDS</a>| Creating and Configuring Cloud Based Database | AWS |
-| <a>AWS ELB</a>| Configuring Auto Scaling Load Balancing | AWS |
-| <a>AWS VPC</a>| Configuration of Virtual Private Cloud With Access Through Internet Gateway (IGW) | AWS |
+| <a href="https://docs.google.com/document/d/1-565gCWuouxg_hQB5dZ7_G9epJ7yhhDX/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS EBS</a>| Configuring Cloud Based Dynamic Storage | AWS |
+| <a href="https://docs.google.com/document/d/1X4y-CIxA_ZsONMae5RiaEo2pbw3huSTn/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS EC2</a>| Creating and Configuring EC2 Instance (Dynamic Computing) | AWS |
+| <a href="https://docs.google.com/document/d/1CUkUG200BdhqwdE29JlA7eq1N_Pk3vxT/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS IAM</a>| Group Policy Management | AWS |
+| <a href="https://docs.google.com/document/d/13Oi56gzAlRIRH5vRcpSCENWOL4HDgtKI/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS RDS</a>| Creating and Configuring Cloud Based Database | AWS |
+| <a href="https://docs.google.com/document/d/1uXsXKpjjabwR68gHTMrliq2Y2t-VW7iX/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS ELB</a>| Configuring Auto Scaling Load Balancing | AWS |
+| <a href="https://docs.google.com/document/d/1vU08ohaLkMxcs_K-RgPA25n2JjJcOja-/edit?usp=sharing&ouid=116960791150940720994&rtpof=true&sd=true">AWS VPC</a>| Configuration of Virtual Private Cloud With Access Through Internet Gateway (IGW) | AWS |
 
 
 ### Coding/Scripts
