@@ -4,19 +4,20 @@
 
 I am a student leader studying Informatics at the University of Washington.
 
-
-
-## Objective
-Currently seeking a summer internship in information technology to contribute technical expertise and develop professionally.
-
 ## Projects
 #### (Some still migrating to github from docx)
+
+### Informatics Capstone Project - The Use of Agentic AI in Cybersecurity
+| Project                    | Skill                                         | Tools                      |
+|----------------------------|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/jacksliwoski/mailshield-package">MailShield Platform</a>| Agentic Email Security System Designed For Healthcare Organizations | **Frontend:** Node.js, Express, Python **Backend AWS:** Bedrock, Lambda, S3, DynamoDB, Comprehend Medical, SES, DB, CloudWatch, Python, OSINT APIs |
 
 ### General
 
 | Project                    | Skill                                         | Tools                      |
 |----------------------------|-----------------------------------------------|----------------------------|
-| <a href="https://github.com/israelavendanojr/crowd-vision">CrowdVision AI</a>| AI Powered Crowd Safety Platform | Frontend: React, Typescript, Tailwind, Backend: Python, Flask, LLaMA 4, AI/ML: Computer Vision, Roboflow, RAG System, Agent |
+| <a href="https://homesphere-92352.web.app/">HomeSphere Dashboard</a>| ERM Dashboard & Risk Matrix | Firebase, JavaScript, HTML |
+| <a href="https://github.com/israelavendanojr/crowd-vision">CrowdVision AI (TOP 6 @ LLAMA 4 HACKATHON)</a>| AI Powered Crowd Safety Platform | **Frontend:** React, Typescript, Tailwind, **Backend:** Python, Flask, LLaMA 4, AI/ML: Computer Vision, Roboflow, RAG System, Agent |
 | <a href="https://github.com/jacksliwoski/gophish-screen">Gophish-Screened</a>| Remake of Gophish to Account For Email Gateway Screeners | Visual Studio Code, Copilot |
 | <a href="https://github.com/info340-sp25a/project-jortuck">Map My Dub</a>| Web Development | Firebase, React.js, JavaScript, CSS, HTML, Vite |
 | <a href="https://github.com/jacksliwoski/Light-Tap">Light Tap IOS Game</a>| Swift, Mobile Game Development | Xcode, Swift |
