@@ -16,7 +16,7 @@ I am a student leader studying Informatics at the University of Washington.
 
 | Project                    | Skill                                         | Tools                      |
 |----------------------------|-----------------------------------------------|----------------------------|
-| <a href="https://homesphere-92352.web.app/">HomeSphere Dashboard</a>| ERM Dashboard & Risk Matrix | Firebase, JavaScript, HTML |
+| <a href="https://github.com/jacksliwoski/homesphere-risk-matrix">HomeSphere Dashboard</a>| ERM Dashboard & Risk Matrix | Firebase, JavaScript, HTML |
 | <a href="https://github.com/israelavendanojr/crowd-vision">CrowdVision AI (TOP 6 @ LLAMA 4 HACKATHON)</a>| AI Powered Crowd Safety Platform | **Frontend:** React, Typescript, Tailwind, **Backend:** Python, Flask, LLaMA 4, AI/ML: Computer Vision, Roboflow, RAG System, Agent |
 | <a href="https://github.com/jacksliwoski/gophish-screen">Gophish-Screened</a>| Remake of Gophish to Account For Email Gateway Screeners | Visual Studio Code, Copilot |
 | <a href="https://github.com/info340-sp25a/project-jortuck">Map My Dub</a>| Web Development | Firebase, React.js, JavaScript, CSS, HTML, Vite |
