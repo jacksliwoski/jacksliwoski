@@ -10,7 +10,8 @@ I am a student leader studying Informatics at the University of Washington.
 ### Informatics Capstone Project - The Use of Agentic AI in Cybersecurity
 | Project                    | Skill                                         | Tools                      |
 |----------------------------|-----------------------------------------------|----------------------------|
-| <a href="https://github.com/jacksliwoski/mailshield-package">MailShield Platform</a>| Agentic Email Security System Designed For Healthcare Organizations | **Frontend:** Node.js, Express, Python **Backend AWS:** Bedrock, Lambda, S3, DynamoDB, Comprehend Medical, SES, DB, CloudWatch, Python, OSINT APIs |
+| <a href="https://github.com/KatKho/healthcare-email-defense">Capstone Project Overview</a>| Agentic Email Security System Designed For Healthcare Organizations | **Frontend:** Node.js, Express, Python **Backend AWS:** Bedrock, Lambda, S3, DynamoDB, Comprehend Medical, SES, DB, CloudWatch, Python, OSINT APIs |
+| <a href="https://github.com/jacksliwoski/mailshield-package">MailShield Package (AWS Cloudshell Setup)</a>| Agentic Email Security System Designed For Healthcare Organizations | **Frontend:** Node.js, Express, Python **Backend AWS:** Bedrock, Lambda, S3, DynamoDB, Comprehend Medical, SES, DB, CloudWatch, Python, OSINT APIs |
 
 ### General
 
