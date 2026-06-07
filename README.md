@@ -1,8 +1,8 @@
 # Hello, I'm Jack Sliwoski
-### President @ ThinkCyber UW Chapter | Security+ Certified
+### University of Washington iSchool Alumn | Security+ Certified
 <a href="https://www.linkedin.com/in/jacksliwoski/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student leader studying Informatics at the University of Washington.
+Prev. Informatics at the University of Washington.
 
 ## Projects
 #### (Some still migrating to github from docx)
