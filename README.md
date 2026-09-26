@@ -5,7 +5,6 @@
 Prev. Informatics at the University of Washington.
 
 ## Projects
-#### (Some still migrating to github from docx)
 
 ### Informatics Capstone Project - The Use of Agentic AI in Cybersecurity
 | Project                    | Skill                                         | Tools                      |
